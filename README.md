@@ -7,10 +7,10 @@ Lazy Geeks Script For Sudo
 1) apt install git
 
 
-2) git clone https://github.com/Bhai4You/Termux-Sudo
+2) https://github.com/SUBUR78990/Sudo-TermuxV2.git
 
 
-3) cd Termux-Sudo
+3) cd Sudo-TermuxV2
 
 
 4) chmod +x sudo.sh
